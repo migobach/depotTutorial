@@ -1,12 +1,12 @@
 # Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
-valid_product_one:
+one:
   title: My Book Title String One
   description: MyText
   image_url: maapis.jpg
   price: 9.99
 
-valid_product_two:
+two:
   title: My Book Title String Two
   description: MyText
   image_url: lorem.jpg
